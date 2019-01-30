@@ -1,24 +1,86 @@
-# README
+                                                #                  #                                      
+                                               ###                ###
+                                              #####              #####
+                                             #######            #######
+                                         #################################
+                                        ##                               ##
+                                       ###                               ###
+                                      ####      #                  #     #####
+                                     #####     ###                ###    ######
+                                    ######    #####              #####   #######
+                                    ######   #######            #######  #######
+                                     #####    #####              #####   ######
+                                      ####     ###                ###    #####
+                                       ###      #       #####      #     ####
+                                        ##              #####            ##
+                                         #              #####            #
+                                         ##                             ## 
+                                          ##                           ## 
+                                            ############################
+                                            #############################
+                                         ###          #########         ###
+                                       #######################################
+                                       #######                         #######
+                                       #### ##  THP              Day16 ## ####
+                                       ###  #############################  ###
+                                       ###  ##                         ##  ###
+                                        ### ##          THE            ## ###
+                                          ####         HACKING         ####
+                                           ###         PINTEREST!!     ###
+                                            ##                         ##
+                                            #############################
+                                            #############################
+                                          #####                       ####
+                                        #######      BON COURAGE !    ######
+                                     ##########                       ########					
+#########################################################################################  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bienvenu dans notre humble programme blog des familles !!! 
 
-Things you may want to cover:
+Ici tu te trouves dans la racine de notre programme. Pour trouver te montrer que notre programme fonctionne, il te suffit de taper dans ton invite de commande rails console. De cette commande tu pourras constater que tous les tablues sont presents avec un :
+-User.all #commande permettant de constater la presence d'un tableau des users.
+-Pin.all #commande permettant de constater la presence d'un tableau des pins.
+-Comment.all #commade permettant de constater la presence d'un tableau des commenntaires.
 
-* Ruby version
+S'il te reste du courage (et je n'en doute pas !). tu peux aller sur notre repetoire model, db ainsi que migrate  pour comprendre comment sont relies nos differentes tables. 
 
-* System dependencies
+Dans le cas contraire laisse moi imager ce que l'on a fait !
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projet ecrit par :
+
+-AUDREN Marion 
+
+-LE VOT Thomas
+
+-POUZOL Maxime
+
+-Ibrahimi Nassim
+
+-De Carvalho Enzo 
